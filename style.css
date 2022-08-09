@@ -1,0 +1,13 @@
+.pembuka p {
+font-size: 30px;
+}
+.contoh p {
+font-size: 30px;
+}
+body { 
+    background-color:#808080;
+}
+.isi { 
+    width:500px;
+    height: 500px;
+}
